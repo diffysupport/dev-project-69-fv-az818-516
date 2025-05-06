@@ -1,5 +1,5 @@
 basic:
-    name: Hagenes-Eichmann
+    name: McClure-Brakus
     environments:
         production: 'https://google.com'
         staging: ''
